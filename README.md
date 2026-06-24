@@ -4,7 +4,7 @@ A beautiful Solar System Animation built using HTML, CSS, and JavaScript.
 
 ## 📸 Screenshot
 
-![Solar System](Solar System.png)
+![Solar System](solar-system.png)
 
 
 ## ✨ Features
